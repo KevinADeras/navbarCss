@@ -1,0 +1,19 @@
+.main-nav{
+    margin-top: 10px;
+    background-color: rgb(90, 160, 160);
+    list-style: none;
+    padding-left: 0;
+    height: 35px;
+    align-items: center;
+}
+
+.main-nav__item{
+   display: inline-block;
+   padding-left: 30px; 
+}
+
+.main-nav__item a{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
